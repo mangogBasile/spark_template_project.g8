@@ -8,4 +8,10 @@ To use this template:
 1) install giter8 on your machine
 
 2) use the follow command to create your project with one module:
+
+- if you clone the project in your own directory
 g8 file://spark_template_project.g8/  --name="project name" --projectModule="module name" --organization=your.package.to.create
+
+
+- you can directly create the project from bitbucket
+g8 https://bitbucket.org/onedata_lv/spark_template_project.g8/src/master/   --name="project name" --projectModule="module name" --organization=your.package.to.create

@@ -1,0 +1,6 @@
+package $package$
+
+object Utils {
+
+  //....
+}

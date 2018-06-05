@@ -1,5 +1,4 @@
-package $packageCommon$
-
+package $package$.common.utils.spark
 
 import com.typesafe.config.{Config, ConfigFactory}
 import org.apache.spark.SparkConf

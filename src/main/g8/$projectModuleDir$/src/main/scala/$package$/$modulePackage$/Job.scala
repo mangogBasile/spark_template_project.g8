@@ -1,7 +1,8 @@
-package $package$
-import $package$.Utils
-import $packageCommon$.utils.spark._
-import com.typesafe.scalalogging.StrictLogging
+package $package$.$modulePackage$
+
+import $package$.common.utils.spark.SparkInstrumentedJob
+import $package$.$modulePackage$.Utils
+import $package$.$modulePackage$.Settings
 
 object Job extends SparkInstrumentedJob with StrictLogging {
 

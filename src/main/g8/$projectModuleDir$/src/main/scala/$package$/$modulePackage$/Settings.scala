@@ -1,8 +1,4 @@
-package $package$
-
-import com.typesafe.config.{Config, ConfigFactory}
-import configs.{ConfigError, Configs}
-import org.slf4j.{Logger, LoggerFactory}
+package $package$.$modulePackage$
 
 //...
 

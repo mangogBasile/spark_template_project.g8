@@ -1,6 +1,0 @@
-package $package$
-
-object Utils {
-
-  //....
-}

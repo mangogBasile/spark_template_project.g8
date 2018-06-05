@@ -1,4 +1,5 @@
-package $packageCommon$
+package $package$.common.utils.spark
+
 import org.apache.spark.sql.SparkSession
 
 

@@ -71,7 +71,9 @@ libraryDependencies in ThisBuild ++= Seq(
   "com.fasterxml.jackson.core" % "jackson-databind" % "2.9.3",
   "com.fasterxml.jackson.module" % "jackson-module-scala_2.11" % "2.9.2",
   "com.github.kxbmap" % "configs_2.11" % "0.4.4",
-  "com.typesafe.scala-logging" %% "scala-logging" % "3.7.2"
+  "com.typesafe.scala-logging" %% "scala-logging" % "3.7.2",
+  "io.prometheus" % "simpleclient" % "0.1.0",
+  "io.prometheus" % "simpleclient_pushgateway" % "0.1.0"
 )
 
 

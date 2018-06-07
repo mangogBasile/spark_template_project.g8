@@ -14,4 +14,4 @@ g8 file://spark_template_project.g8/  --name="project name" --projectModule="mod
 
 
 - you can directly create the project from bitbucket
-g8 https://bitbucket.org/onedata_lv/spark_template_project.g8/src/master/   --name="project name" --projectModule="module name" --organization=your.package.to.create
+g8 https://github.com/mangogBasile/spark_template_project.g8   --name="project name" --projectModule="module name" --organization=your.package.to.create

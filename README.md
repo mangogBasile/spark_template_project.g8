@@ -14,4 +14,4 @@ g8 file://spark_template_project.g8/  --name="project name" --projectModule="mod
 
 
 - you can directly create the project from bitbucket
-g8 https://github.com/mangogBasile/spark_template_project.g8   --name="project name" --projectModule="module name" --organization=your.package.to.create
+g8 mangogBasile/spark_template_project   --name="project name" --projectModule="module name" --organization=your.package.to.create

@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d98bb01b-2fbf-4513-9351-8d922cee1601" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/g8/common/src/main/scala/$package$/common/utils/prometheus/PrometheusTools.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/g8/$projectModuleDir$/src/main/resources/reference.conf" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/g8/$projectModuleDir$/src/main/resources/reference.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/g8/$projectModuleDir$/src/main/scala/$package$/$modulePackage$/Job.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/g8/$projectModuleDir$/src/main/scala/$package$/$modulePackage$/Job.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/g8/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/g8/build.sbt" afterDir="false" />
-    </list>
+    <list default="true" id="d98bb01b-2fbf-4513-9351-8d922cee1601" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
     <ignored path="$PROJECT_DIR$/project/target/" />
